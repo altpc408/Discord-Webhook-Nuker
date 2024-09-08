@@ -1,3 +1,3 @@
 # Installation / How to use
-Open CMD Prompt, type "Python" and then hit enter to install python.
-After installing, go to CMD Prompt and type "pip install requests", once it's done installing you can use the .py file
+First install python from either https://python.org or from the microsoft store (download the latest version)
+Then run install.bat to install requests aka "pip install requirements"
